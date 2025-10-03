@@ -2,7 +2,7 @@ const draggable_list = document.getElementById('draggable-list');
 const check = document.getElementById('check');
 
 const panovnici = [
-  'Bořivoj I.',
+  'George Washington',
   'Spytihněv I.',
   'Vratislav I.',
   'sv. Václav',
